@@ -1,2 +1,2 @@
-# libft
-Project libft 42Firenze
+# main
+Project main
